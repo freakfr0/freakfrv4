@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Freak</h1>
 <h3 align="center">I'm a Certified Ethical Hacker & Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=freakfr&label=Profile%20views&color=0e75b6&style=flat" alt=freak.fr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=freakfr0&label=Profile%20views&color=0e75b6&style=flat" alt=freakfr0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freakfr0" alt=freakfrv0" /></a> </p>
 
